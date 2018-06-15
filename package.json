@@ -1,0 +1,15 @@
+{
+  "name": "slackify-markdown-cli",
+  "version": "1.0.0",
+  "description": "Convert markdown into Slack-specific markdown",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macrocro/slackify-markdown-cli.git"
+  },
+  "dependencies": {
+    "slackify-markdown": "1.0.3"
+  },
+  "bin": "./cli.js"
+}
